@@ -8,7 +8,9 @@ I'm a first-year University of Waterloo student pursuing a double major in Compu
 
 ## 🔧 Technical Skills
 **Languages:** Python, SQL, JavaScript, C, Racket, HTML
+
 **Data & Analytics:** Pandas, NumPy, Matplotlib, SciPy, yfinance, scikit-learn
+
 **Web Development:** React.js, Node.js, Tailwind CSS
 
 ## 💼 Featured Projects
@@ -79,7 +81,6 @@ A full-featured reading management application for tracking, rating, and reviewi
 
 - **LinkedIn:** www.linkedin.com/in/manal-khan123
 - **Email:** m544khan@uwaterloo.ca
-- **Portfolio:** [Your Website]
 
 ## ⚡ Fun fact: 
 - I built ReadNest after reading 120+ books in 2025 through E-libraries that didn't track them - I needed a way to rate, review, and remember my favorites!
