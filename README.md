@@ -1,6 +1,4 @@
 # Hi, I'm Manal👋
-<!--
-**Manal9667/Manal9667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **Software Engineering | Quantitative Finance | Data Analytics**
 
