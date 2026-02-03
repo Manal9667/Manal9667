@@ -16,7 +16,7 @@ I'm a first-year University of Waterloo student pursuing a double major in Compu
 ## 💼 Featured Projects
 
 ### 📊 Inventory Risk Management System
-**Client-Sponsored Project for Iqbal Foods**  
+**Iqbal Foods**  
 *Python, SQL, NumPy, Pandas, scikit-learn*
 
 Partnered with the VP of Operations to tackle a critical overstock crisis by developing a Monte Carlo-based inventory risk management system.
