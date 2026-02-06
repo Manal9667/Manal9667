@@ -4,7 +4,11 @@
 
 *Open to a Summer 2026 Internship!*
 
-I'm a first-year University of Waterloo student pursuing a double major in Computer Science and Finance. I am extremely passionate about applying quantitative methods and software engineering to solve real-world financial and operational problems. I specialize in building data-driven solutions using Python, JavaScript, and modern web technologies.
+I'm a first-year University of Waterloo student pursuing a double major in **Computer Science and Finance**. I specialize in building **data-driven financial solutions** that combine quantitative modeling, software engineering, and real-world problem-solving—from portfolio optimization to inventory risk management.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ## 🔧 Technical Skills
 **Languages:** Python, C, HTML/CSS, SQL, JavaScript, Racket
@@ -13,13 +17,13 @@ I'm a first-year University of Waterloo student pursuing a double major in Compu
 
 **Web Development:** React.js, Node.js, Tailwind CSS
 
-**Tools:** REST APIs, Git, Jupyter Notebook, Looker, Tableau, LaTeX}
+**Tools:** REST APIs, Git, Jupyter Notebook, Looker, Tableau, LaTeX
 
 ## 💼 Featured Projects
 ---
 
 ### 📈 Risk-Averse Portfolio Robo-Advisor
-*Python, NumPy, Pandas, Matplotlib, SciPy, yfinancee*
+*Python, NumPy, Pandas, Matplotlib, SciPy, yfinance*
 
 **🏆 2nd Place** in UW CFM 101 Robo-Advisor Competition
 
@@ -41,7 +45,7 @@ Built a market-neutral portfolio optimizer designed to achieve returns closest t
 Tackled a real-world critical overstock crisis by developing a Monte Carlo-based inventory risk management system.
 
 **Key Achievements:**
-- Engineered probabilistic demand forecasting system using Monte Carlo simulation (10,000 iterations per SKU) with negative binomial distribution to model uncertainty across 44-product portfolio
+- Engineered probabilistic demand forecasting system using Monte Carlo simulation (10,000 iterations per SKU) and negative binomial distributions to quantify uncertainty across 44-product portfolio
 - Calculated VaR and CVaR metrics, quantifying **$1,635 expected portfolio profit**
 - Generated time-sensitive recommendations for 20 critical SKUs (1,447 units total)
 - Identified **7 products facing 100% stockout within 14 days** and flagged 3 negative-margin items for immediate liquidation
@@ -61,7 +65,7 @@ Built a full-featured reading management application for tracking, rating, and r
 - Responsive UI built with Tailwind CSS supporting real-time filtering across multiple attributes
 - Currently developing Node.js backend with MongoDB for user authentication and cross-device synchronization
 
-**Skills Demonstrated:** Full-stack development, API integration, responsive design, database architecture
+**Outcome:** Solved a personal pain point while demonstrating full-stack capabilities—from API integration to database design to responsive UI development. Full-stack development, API integration, responsive design, database architecture
 
 ---
 
@@ -83,6 +87,6 @@ Built a full-featured reading management application for tracking, rating, and r
 - **Email:** m544khan@uwaterloo.ca
 
 ## ⚡ Fun fact: 
-- I built ReadNest after reading 120+ books in 2025 through E-libraries that didn't track them - I needed a way to rate, review, and remember my favorites!
+- I read **120+ books in 2024** through E-libraries that didn't track them — so I built ReadNest to rate, review, and organize my favorites. Now I keep adding features to it to make it even better! 📚
 
 ---
