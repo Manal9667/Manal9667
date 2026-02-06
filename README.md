@@ -7,36 +7,21 @@
 I'm a first-year University of Waterloo student pursuing a double major in Computer Science and Finance. I am extremely passionate about applying quantitative methods and software engineering to solve real-world financial and operational problems. I specialize in building data-driven solutions using Python, JavaScript, and modern web technologies.
 
 ## 🔧 Technical Skills
-**Languages:** Python, SQL, JavaScript, C, Racket, HTML
+**Languages:** Python, C, HTML/CSS, SQL, JavaScript, Racket
 
-**Data & Analytics:** Pandas, NumPy, Matplotlib, SciPy, yfinance, scikit-learn
+**Libraries:** scikit-learn, SciPy, NumPy, Pandas, Matplotlib, yfinance
 
 **Web Development:** React.js, Node.js, Tailwind CSS
 
+**Tools:** REST APIs, Git, Jupyter Notebook, Looker, Tableau, LaTeX}
+
 ## 💼 Featured Projects
-
-### 📊 Inventory Risk Management System
-**Iqbal Foods**  
-*Python, SQL, NumPy, Pandas, scikit-learn*
-
-Partnered with the VP of Operations to tackle a critical overstock crisis by developing a Monte Carlo-based inventory risk management system.
-
-**Key Achievements:**
-- Analyzed 44 SKUs using probabilistic demand forecasting with negative binomial distribution (10,000 simulations per product)
-- Calculated VaR and CVaR metrics, quantifying **$1,635 expected portfolio profit**
-- Generated time-sensitive recommendations for 20 critical SKUs (1,447 units total)
-- Identified **7 products facing 100% stockout within 14 days** and flagged 3 negative-margin items for immediate liquidation
-- Built risk segmentation model classifying 24 high-risk products
-- Currently developing React-based visualization dashboard for stakeholder reporting
-
-**Impact:** Delivered actionable insights that directly informed stakeholders' operational decisions for a grocery chain.
-
 ---
 
 ### 📈 Risk-Averse Portfolio Robo-Advisor
-*Python, NumPy, Pandas, SciPy, yfinance*
+*Python, NumPy, Pandas, Matplotlib, SciPy, yfinancee*
 
-**🏆 2nd Place** in UW CFM 101 "Risk-Free" Competition
+**🏆 2nd Place** in UW CFM 101 Robo-Advisor Competition
 
 Built a market-neutral portfolio optimizer designed to achieve returns closest to zero during a 5-day live trading period.
 
@@ -48,13 +33,26 @@ Built a market-neutral portfolio optimizer designed to achieve returns closest t
 - Validated strategy with 1-year historical backtest on $1M CAD across multiple sectors
 
 **Outcome:** Demonstrated strong understanding of portfolio theory and risk management in a competitive, real-money simulation environment.
-
 ---
+### 📊 Inventory Risk Management System
+*Python, SQL, scikit-learn, NumPy, Pandas, Matplotlib*
 
+Tackled a real-world critical overstock crisis by developing a Monte Carlo-based inventory risk management system.
+
+**Key Achievements:**
+- Engineered probabilistic demand forecasting system using Monte Carlo simulation (10,000 iterations per SKU) with negative binomial distribution to model uncertainty across 44-product portfolio
+- Calculated VaR and CVaR metrics, quantifying **$1,635 expected portfolio profit**
+- Generated time-sensitive recommendations for 20 critical SKUs (1,447 units total)
+- Identified **7 products facing 100% stockout within 14 days** and flagged 3 negative-margin items for immediate liquidation
+- Built risk segmentation model classifying 24 high-risk products
+- Currently developing React-based visualization dashboard for stakeholder reporting
+
+**Outcome:** Delivered actionable inventory strategy that balanced stockout risk against holding costs, demonstrating advanced capability in stochastic modeling, financial risk quantification, and data-driven decision-making under uncertainty in a real-world supply chain context.
+---
 ### 📚 Library Reading Tracker
 *React.js, JavaScript, Tailwind CSS, Open Library API*
 
-A full-featured reading management application for tracking, rating, and reviewing books with automated metadata retrieval.
+Built a full-featured reading management application for tracking, rating, and reviewing books with automated metadata retrieval.
 
 **Features:**
 - Integrated Open Library REST API for automatic metadata and cover image population
