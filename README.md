@@ -33,6 +33,7 @@ Built a market-neutral portfolio optimizer designed to achieve returns closest t
 - Validated strategy with 1-year historical backtest on $1M CAD across multiple sectors
 
 **Outcome:** Demonstrated strong understanding of portfolio theory and risk management in a competitive, real-money simulation environment.
+
 ---
 ### 📊 Inventory Risk Management System
 *Python, SQL, scikit-learn, NumPy, Pandas, Matplotlib*
@@ -48,6 +49,7 @@ Tackled a real-world critical overstock crisis by developing a Monte Carlo-based
 - Currently developing React-based visualization dashboard for stakeholder reporting
 
 **Outcome:** Delivered actionable inventory strategy that balanced stockout risk against holding costs, demonstrating advanced capability in stochastic modeling, financial risk quantification, and data-driven decision-making under uncertainty in a real-world supply chain context.
+
 ---
 ### 📚 Library Reading Tracker
 *React.js, JavaScript, Tailwind CSS, Open Library API*
