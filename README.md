@@ -21,7 +21,26 @@ I'm a first-year University of Waterloo student pursuing a double major in **Com
 
 ## 💼 Featured Projects
 ---
+### 💳 Credit Card Spending Prediction & Model Simplification
+*Python, NumPy, Pandas, Matplotlib, Scikit-learn*
 
+Built a full ML pipeline on 100,000 synthetic credit card customers to evaluate 
+whether a simplified challenger model could replace a complex production model 
+without sacrificing predictive power.
+
+**Technical Highlights:**
+- Trained and compared 3 models: Linear Regression, Gradient Boosting, and Random Forest
+- Performed feature importance analysis to identify key spending drivers
+- Engineered `spending_velocity` (transaction frequency × avg amount) — captured **99.5%** of model decisions
+- Built simplified 5-feature challenger model achieving identical R² (**0.9984**) to 13-feature full model
+- Quantified operational trade-offs: 62% feature reduction, ~40–60% faster inference, no accuracy loss
+- Generated executive-style strategic recommendation report with phased deployment roadmap
+
+**Outcome:** Demonstrated that model complexity is not a prerequisite for accuracy — 
+the simplified model matched full performance while delivering significant gains in 
+interpretability, deployment cost, and regulatory explainability.
+
+---
 ### 📈 Risk-Averse Portfolio Robo-Advisor
 *Python, NumPy, Pandas, Matplotlib, SciPy, yfinance*
 
