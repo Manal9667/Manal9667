@@ -1,6 +1,6 @@
 # Hi, I'm Manal👋
 
-**Data Science | Software Engineering | Quantitative Finance**
+**Data Science | Software Engineering | Quantitative Finance | QA**
 
 *Open to a Summer 2026 Internship!*
 
@@ -66,6 +66,23 @@ Built a full-featured reading management application for tracking, rating, and r
 - Currently developing Node.js backend with MongoDB for user authentication and cross-device synchronization
 
 **Outcome:** Solved a personal pain point while demonstrating full-stack capabilities—from API integration to database design to responsive UI development. Full-stack development, API integration, responsive design, database architecture
+
+---
+
+### 🎮 Trivia Rush — Multiplayer Trivia Game
+*JavaScript, Node.js, WebSockets, Playwright*
+
+Built a real-time multiplayer trivia game from scratch, including the game server, browser client, and a full automated test suite.
+
+**Technical Highlights:**
+- Engineered a WebSocket game server in Node.js managing concurrent player sessions, round lifecycle, and authoritative game-state synchronisation across all clients
+- Handled server-side race-condition edge cases — simultaneous answer submissions, mid-round disconnections, and session recovery within a 30-second reconnection window
+- Built a Playwright automation suite simulating 10+ concurrent browser sessions, validating state consistency under adversarial timing conditions
+- Produced structured bug reports with reproduction steps, session logs, and expected-vs-actual results, mirroring industry QA workflows
+- Delivered iteratively across Agile sprints with planning, demos, and retrospectives
+
+**Outcome:** Deepened practical understanding of real-time systems, concurrency bugs,
+and test-driven QA — directly applicable to software engineering and QA internship workflows.
 
 ---
 
