@@ -4,7 +4,7 @@
 
 *Open to a Summer 2026 Internship!*
 
-I'm a first-year University of Waterloo student pursuing a double major in **Computer Science and Finance**. I specialize in building **data-driven financial solutions** that combine quantitative modeling, software engineering, and real-world problem-solving—from portfolio optimization to inventory risk management.
+I'm a first-year University of Waterloo student pursuing a double major in **Computer Science and Finance**. I specialize in building **data-driven financial solutions** that combine quantitative modeling, software engineering, and real-world problem-solving from portfolio optimization to inventory risk management.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
