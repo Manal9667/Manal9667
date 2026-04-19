@@ -21,6 +21,23 @@ I'm a first-year University of Waterloo student pursuing a double major in **Com
 
 ## 💼 Featured Projects
 ---
+
+### 🔐 Securechain — Blockchain-Based Digital Evidence Management
+*Python, hashlib, json*
+
+Built a forensic chain of custody system that logs files as SHA-256 fingerprints
+on a tamper-proof blockchain — any modification to a file or the chain itself is
+immediately detectable.
+
+**Technical Highlights:**
+- SHA-256 file hashing with chunked reading for large files
+- Linked block structure where each block stores the previous block's hash
+- Full chain integrity validation catching both file-level and chain-level tampering
+- CLI covering the complete evidence workflow: log, verify, and audit
+
+**Outcome:** Any tampering — to a file or the chain itself — is mathematically impossible to hide.
+
+---
 ### 💳 Credit Card Spending Prediction & Model Simplification
 *Python, NumPy, Pandas, Matplotlib, Scikit-learn*
 
