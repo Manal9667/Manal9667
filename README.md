@@ -1,6 +1,6 @@
 # Hi, I'm Manal👋
 
-**Data Science | Software Engineering | Quantitative Finance | QA**
+**Data Science | AI | Software Engineering | Quantitative Finance | QA**
 
 *Open to a Summer 2026 Internship!*
 
