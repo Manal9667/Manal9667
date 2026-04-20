@@ -4,7 +4,7 @@
 
 *Open to a Summer 2026 Internship!*
 
-I'm a first-year University of Waterloo student pursuing a double major in **Computer Science and Finance**. 
+I'm a second-year University of Waterloo student pursuing a double major in **Computer Science and Finance**. 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
