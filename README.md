@@ -22,7 +22,7 @@ I'm a first-year University of Waterloo student pursuing a double major in **Com
 ## 💼 Featured Projects
 ---
 
-### 🔐 Securechain — Blockchain-Based Digital Evidence Management
+### 🔐 EvidenceLog — Blockchain-Based Digital Evidence Management
 *Python, hashlib, json*
 
 Built a forensic chain of custody system that logs files as SHA-256 fingerprints
