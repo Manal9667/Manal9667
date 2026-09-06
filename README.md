@@ -16,18 +16,9 @@ A second-year University of Waterloo student pursuing a double major in **Comput
 ## Experience
 
 **AI Engineer**
-*Pi-Lab.ai*
+*Pi-Labs.ai*
 *May '26 - Aug'26*
 
 Created and deployed an AI-powered multimodal deepfake detection application across video, audio, and image data using **Python,
 PyTorch and OpenCV,** testing inference on 50K+ audio and visual media files
 
-## Contact me at:
-
-- **LinkedIn:** www.linkedin.com/in/manal-khan123
-- **Email:** manal.khan1@uwaterloo.ca
-
-## ⚡ Fun fact: 
-- I read **120+ books in 2024** through E-libraries that didn't track them — so I built ReadNest to rate, review, and organize my favorites. Now I keep adding features to it to make it even better! 📚
-
----
