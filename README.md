@@ -1,22 +1,16 @@
-# Hi, I'm Manal!
+Hello, I'm Manal!
 
-*Looking for Winter 2027 internship opportunities!*
+I'm a second-year University of Waterloo student studying CS + Finance
 
-A second-year University of Waterloo student pursuing a double major in **Computer Science and Finance**.
+*Currently I am:*
+- Building QuantExec
+- Reading 4 books at the same time
+- Seeking a Winter 2027 Co-op!
 
-## Technical Skills
-**Languages:** Python, C++, C, SQL, JavaScript, TypeScript
+*Prev @*
 
-**Libraries:** OpenCV, scikit-learn, SciPy, NumPy, Pandas, Matplotlib
-
-**Web Development:** React.js, Node.js, Tailwind CSS
-
-**Tools:** REST APIs, Git, Jupyter Notebook, Looker, Tableau, LaTeX
-
-## Experience
-
-**AI Engineer**
-*Pi-Labs.ai*
+Pi-Labs.ai
+AI Engineer
 *May '26 - Aug'26*
 
 Created and deployed an AI-powered multimodal deepfake detection application across video, audio, and image data using **Python,
