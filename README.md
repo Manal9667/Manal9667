@@ -9,8 +9,8 @@ I'm a second-year University of Waterloo student studying CS + Finance
 
 *Prev @*
 
-**Pi-Labs.ai**
-AI Engineer
+**Pi-Labs.ai**<br>
+AI Engineer<br>
 *May '26 - Aug'26*
 
 Built and deployed an AI-powered multimodal deepfake detection application across video, audio, and image data using **Python,
