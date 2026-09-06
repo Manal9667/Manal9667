@@ -1,8 +1,6 @@
 # Hi, I'm Manal👋
 
-**Data Science | AI | Software Engineering | Quantitative Finance | QA**
-
-*Open to a Summer 2026 Internship!*
+*Looking for Winter 2027 internship opportunities!*
 
 I'm a second-year University of Waterloo student pursuing a double major in **Computer Science and Finance**. 
 
@@ -10,16 +8,26 @@ I'm a second-year University of Waterloo student pursuing a double major in **Co
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-## 🔧 Technical Skills
-**Languages:** Python, C, HTML/CSS, SQL, JavaScript, Racket
+## Technical Skills
+**Languages:** Python, C++, C, SQL, JavaScript, TypeScript
 
-**Libraries:** scikit-learn, SciPy, NumPy, Pandas, Matplotlib, yfinance
+**Libraries:** OpenCV, scikit-learn, SciPy, NumPy, Pandas, Matplotlib
 
 **Web Development:** React.js, Node.js, Tailwind CSS
 
 **Tools:** REST APIs, Git, Jupyter Notebook, Looker, Tableau, LaTeX
 
-## 💼 Featured Projects
+## Experience
+---
+
+**AI Engineer**
+*Pi-Lab.ai*
+*May '26 - Aug'26*
+
+Created and deployed an AI-powered multimodal deepfake detection application across video, audio, and image data using Python,
+PyTorch, OpenCV
+
+## Featured Projects
 ---
 
 ### 🔐 EvidenceLog — Blockchain-Based Digital Evidence Management
